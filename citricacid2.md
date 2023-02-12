@@ -21,6 +21,8 @@ Feature breakdown:
 - The zippers will have conductive thread switches. The LEDs can be used to indicate this.
 - All attached devices and the internal battery will be able to be charged from a single USB-C port on the outside of the bag.
 - The backpack's features will be controllable via bluetooth from a mobile app.
+- The backpack will have lockable compartments
+- The backpack will have wireless modules, that can communicate over the ESP32 Now protocol, such as a remote, a turn indicator, etc.
 
 ## Plan
 
